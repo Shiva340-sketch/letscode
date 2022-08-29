@@ -7,6 +7,7 @@
 
 
 ***I am currently learning the following libraries***
-[] SciPy
-[] NumPy
-[] Matplotlib
+
+-  [ ] SciPy
+-  [ ] NumPy
+-  [ ] Matplotlib
