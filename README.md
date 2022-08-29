@@ -8,6 +8,6 @@
 
 ***I am currently learning the following libraries***
 
--  [ ] SciPy
--  [ ] NumPy
--  [ ] Matplotlib
+-  [x ] SciPy
+-  [x ] NumPy
+-  [x ] Matplotlib
